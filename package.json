@@ -1,0 +1,27 @@
+{
+  "name": "20160706",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "istanbul cover C:\\Users\\IBM\\AppData\\Roaming\\npm\\node_modules\\mocha\\bin\\_mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "benchmark": "^2.1.0",
+    "color": "^0.11.3",
+    "mocha-phantomjs": "^4.1.0",
+    "should": "^9.0.2"
+  },
+  "dependencies": {
+    "color": "^0.11.3",
+    "benchmark": "^2.1.0",
+    "mocha-phantomjs": "^4.1.0",
+    "should": "^9.0.2"
+  }
+}
